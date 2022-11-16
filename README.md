@@ -1,1 +1,3 @@
-# PHP2_2023_lab_termin5
+# PHP2 skolska 2022/23
+# laboratorijske vezbe
+# termin 5
